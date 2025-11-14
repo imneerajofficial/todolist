@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/features/todo/index.ts","./src/features/todo/components/addtodo.tsx","./src/features/todo/components/todoapp.tsx","./src/features/todo/components/todolist.tsx","./src/features/todo/types/todo.types.ts","./src/features/todo/utils/todo.utils.ts"],"version":"5.9.3"}
